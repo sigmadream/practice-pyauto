@@ -1,3 +1,7 @@
 beautifulsoup4
 html5lib
 jupyterlab
+pandas
+seaborn
+selenium
+webdriver-manager

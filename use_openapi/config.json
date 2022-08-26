@@ -1,0 +1,6 @@
+{
+    "client_id": "naver_client_id",
+    "client_secret": "naver_client_secret",
+    "display": 100,
+    "sort_type": "sim"
+}
